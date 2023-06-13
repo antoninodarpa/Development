@@ -1,7 +1,7 @@
 let team3 =[];
 
 
-const Antonino = {
+const Antonino = [{
     name: "Antonino",
     surname: "D'Arpa",
     age: 28,
@@ -13,3 +13,4 @@ const Antonino = {
     favoriteBook: "Da Cosa Nasce Cosa",
     petName: "Bobby",
   };
+];
