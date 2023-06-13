@@ -1,1 +1,14 @@
-let team3 =[];
+let team3 = [];
+
+const Mirka = {
+  name: "leo",
+  surname: "sorre",
+  age: 27,
+  city: "bologna",
+  hobby: "GO",
+  favoriteFood: "amatriciana",
+  favoriteVideoGame: "fallout",
+  favoriteFilm: "dune",
+  favoriteBook: "dune",
+  petName: "Katana",
+};
