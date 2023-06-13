@@ -1,6 +1,6 @@
 let team3 = [];
 
-const leo = {
+const leo = [{
   name: "leo",
   surname: "sorre",
   age: 27,
@@ -12,3 +12,4 @@ const leo = {
   favoriteBook: "dune",
   petName: "Katana",
 };
+];
