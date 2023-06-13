@@ -1,6 +1,7 @@
 let team3 = [];
 
-const Mirka = {
+const leo 
+= {
   name: "leo",
   surname: "sorre",
   age: 27,
