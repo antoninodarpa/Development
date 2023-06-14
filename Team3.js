@@ -1,4 +1,4 @@
-let team3Students =[{
+let team3Students = [{
     name: "Vittorio",
   surname: "De Giorgio",
   age: 26,
@@ -9,7 +9,7 @@ let team3Students =[{
   favouriteFilm: "Interstellar",
   favouriteBook: "Io, Ibra",
   petName: "McGiò"
-}
+},
 {
   name: "Antonino",
   surname: "D'Arpa",
@@ -21,6 +21,19 @@ let team3Students =[{
   favoriteFilm: "American Beauty",
   favoriteBook: "Da Cosa Nasce Cosa",
   petName: "Bobby",
-};
+},
+{
+  name: "leo",
+  surname: "sorre",
+  age: 27,
+  city: "bologna",
+  hobby: "GO",
+  favoriteFood: "amatriciana",
+  favoriteVideoGame: "fallout",
+  favoriteFilm: "dune",
+  favoriteBook: "dune",
+  petName: "Katana",
+}
 ];
+
 
