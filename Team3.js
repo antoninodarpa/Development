@@ -1,5 +1,7 @@
-let team3Students = [{
-    name: "Vittorio",
+const team3 = [];
+
+let vittorio = {
+  name: "Vittorio",
   surname: "De Giorgio",
   age: 26,
   city: "Amaroni",
@@ -9,8 +11,11 @@ let team3Students = [{
   favouriteFilm: "Interstellar",
   favouriteBook: "Io, Ibra",
   petName: "McGiò"
-},
-{
+};
+
+team3.push (vittorio)
+
+const antonino = {
   name: "Antonino",
   surname: "D'Arpa",
   age: 28,
@@ -21,8 +26,11 @@ let team3Students = [{
   favoriteFilm: "American Beauty",
   favoriteBook: "Da Cosa Nasce Cosa",
   petName: "Bobby",
-},
-{
+};
+
+team3.push (antonino)
+
+const leo = {
   name: "leo",
   surname: "sorre",
   age: 27,
@@ -33,8 +41,11 @@ let team3Students = [{
   favoriteFilm: "dune",
   favoriteBook: "dune",
   petName: "Katana",
-},
-{
+};
+
+team3.push (leo);
+
+const stefano = {
   name: "Stefano",
   surname: "Mazzarella",
   age: 21,
@@ -46,4 +57,5 @@ let team3Students = [{
   favoriteBook: "la vera storia dei peaky blinders",
   petName: "Roy",
 };
-];
+
+team3.push (stefano);
